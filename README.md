@@ -17,4 +17,5 @@ I'm Ortniel ADOUMASSE a junior software engineer.
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=adoumasseo&show_icons=true&theme=radical)
 
 ## Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoumasseo&layout=compact)
 
