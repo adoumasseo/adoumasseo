@@ -1,7 +1,7 @@
 ## Ortniel ADOUMASSE 👋
 ```Software engineer```
 <br>
-I'm Ortniel ADOUMASSE a junior software engineer.
+I'm Ortniel ADOUMASSE a software engineer.
 
 - 🔭 I’m currently working on developing my problem-solving skills using technology
 - 🌱 I’m currently on the path of becoming a full-stack software engineer
