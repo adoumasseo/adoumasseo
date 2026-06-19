@@ -17,3 +17,5 @@ I'm Ortniel ADOUMASSE a software engineer.
 ## Top Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoumasseo&layout=compact)
 
+## My stats
+<div align="center"> <img src="https://streak-stats.demolab.com?user=adoumasseo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> </div>
