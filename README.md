@@ -12,10 +12,10 @@ I'm Ortniel ADOUMASSE a software engineer.
 -->
 
 ## Summary
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adoumasseo&theme=github_dark)
+<div align="center"> ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adoumasseo&theme=github_dark)</div>
 
 ## Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoumasseo&layout=compact)
+<div align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adoumasseo&layout=compact)</div>
 
 ## My stats
 <div align="center"> <img src="https://streak-stats.demolab.com?user=adoumasseo&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" /> </div>
